@@ -1,0 +1,2 @@
+# 生成 EXE 需要 PyInstaller（运行时及生成的 EXE 均不依赖第三方库）
+pyinstaller>=6.0
